@@ -1,0 +1,79 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div {
+    border: 0px solid black;   
+}
+
+img {
+    width: 200px;   
+    margin: 40px;
+}
+body{
+  background-color: #585858	;
+}
+.why{
+  color:white;
+}
+}
+.small-height {
+    height: 200px;
+}
+
+.small-width {
+    width: 200px;
+}
+.big-width{
+  width:90px;
+}
+.big-height{
+  height:90px;
+}
+.green-frame {
+    border: 8px double white	;
+    padding: 6px;
+}
+.circle {
+    border-radius: 50%;
+}
+.yo{
+  color:white;
+}
+.pink-frame {
+    border: 8px double white;
+    padding: 6px;
+}
+.menu1 {
+display:flex;    
+justify-content:space-around;
+background-color:#585858;    
+border: 2px solid white;
+padding: 8px;
+margin: 2px;
+}
+
+.item1 {
+background-color:#585858;   
+border: 8px solid white;
+color:white;  
+padding: 10px;
+margin: 10px;
+}
+.menu2{
+display:flex;    
+justify-content:space-around;
+background-color:#585858;    
+border: 2px solid white;
+padding: 30px;
+margin: 5px;
+}
+.item2{
+background-color:#585858;   
+border: 5px solid white;
+color:white;  
+padding: 10px;
+margin: 5px;
+}
+
